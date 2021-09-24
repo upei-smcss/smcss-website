@@ -1,8 +1,8 @@
-title: "jekyll-shell-theme"
-tagline: "A jekyll theme that looks like a shell/terminal"
-description: "This is a preview of jekyll-shell-theme."
-github_username: tareqdandachi
-url: "https://tareqdandachi.github.io"
+title: "UPEI SMCSS"
+tagline: "UPEI Society of Mathematical and Computational Science"
+description: ""
+github_username: upei-smcss
+url: ""
 
 plugins:
   - jemoji
