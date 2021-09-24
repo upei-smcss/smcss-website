@@ -4,7 +4,14 @@
 </p> 
 
 <p align="center">
+  
+*hacker voice* I'm in.  
+
 UPEI's SMCSS is the society where CS Majors, Math Majors and any kind of tech and computer lover comes to dominate the Cass Science Hall Lounge (202) 
+  
+  
+We host events, raise your voice, and ensure we spread our love for tech and stupid things.
+ 
 Join us, and our Discord. 
 </p>
 
