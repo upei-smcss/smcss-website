@@ -2,7 +2,7 @@ title: "UPEI SMCSS"
 tagline: "UPEI Society of Mathematical and Computational Science"
 description: ""
 github_username: upei-smcss
-url: ""
+url: "https://github.com/upei-smcss/"
 
 plugins:
   - jemoji
