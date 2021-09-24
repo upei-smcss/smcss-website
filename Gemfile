@@ -11,4 +11,5 @@ group :jekyll_plugins do
   gem 'jemoji'
   gem 'jekyll-remote-theme'
   gem 'jemoji'
+  gem 'jekyll-seo-tag'
 end
