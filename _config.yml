@@ -15,6 +15,8 @@ github_username:  tareqdandachi
 plugins:
   - jekyll-remote-theme
   - jemoji
+gems:
+  - jekyll-seo-tag
 
 # Including jekyll-shell-theme using the jekyll-remote-theme plugin
 remote_theme: tareqdandachi/jekyll-shell-theme
