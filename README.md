@@ -1,7 +1,9 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/91146114/134745070-d6775f72-4c63-4351-b019-c125cb4cf07a.gif">
-</p>
+<img src="https://user-images.githubusercontent.com/91146114/134747496-4b06ef45-dd3a-41b7-bc96-eff6ca8983e3.png">
+</p> 
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/91146114/134747372-97d9cb46-2d7b-4885-8b22-4c11dc2fdea0.png">
-</p>
+UPEI's SMCSS is the society where CS Majors, Math Majors and any kind of tech and computer lover comes to dominate the Cass Science Hall Lounge (202) 
+Join us, and our Discord. 
+
+
