@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/91146114/134747050-c6ba181e-1951-4225-bfd0-cd733ca3c354.png">
+<img src="https://user-images.githubusercontent.com/91146114/134747267-f9521d26-0413-4533-ba2b-281c57b383d4.png">
 </p>
