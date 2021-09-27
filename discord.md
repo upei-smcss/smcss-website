@@ -2,7 +2,7 @@
 layout: page
 permalink: /
 permalink_name: /discord
-title: upei-smcss
+title: Join our Discord
 
 ---
 <p align="center">
