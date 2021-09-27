@@ -1,3 +1,10 @@
+---
+layout: page
+permalink: /
+permalink_name: /discord
+title: upei-smcss
+
+---
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/91146114/134955009-f5a38e62-ccf4-4b22-ab0d-ff6cf41b1200.png">
