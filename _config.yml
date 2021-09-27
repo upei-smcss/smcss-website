@@ -21,6 +21,6 @@ header_pages:
   - discord.md
 
 # set the size of the text to 'large' or 'small', default is small
-font-size: large
+font-size: small
 
 remote_theme: tareqdandachi/jekyll-shell-theme
