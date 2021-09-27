@@ -8,7 +8,7 @@ title: Welcome
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/91146114/134968266-c13c5149-8137-45cd-9fc2-a1c87413d25e.gif">
+<img src="https://user-images.githubusercontent.com/91146114/134968601-124581fa-a067-40d1-a1e0-46f074fe710e.gif">
 <img src="https://user-images.githubusercontent.com/91146114/134747496-4b06ef45-dd3a-41b7-bc96-eff6ca8983e3.png">
 </p> 
 
