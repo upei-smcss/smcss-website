@@ -1,8 +1,8 @@
 ---
 layout: home
-permalink: /
+permalink:/
 permalink_name: /home
-title: upei-smcss
+title: Welcome
 
 ---
 
