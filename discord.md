@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /
+permalink: /discord
 permalink_name: /discord
 title: Join our Discord
 
