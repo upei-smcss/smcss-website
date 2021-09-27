@@ -1,7 +1,7 @@
 ---
-layout:
+layout: home
 permalink: /
-permalink_name: /
+permalink_name: /home
 title: upei-smcss
 
 detail_image:
