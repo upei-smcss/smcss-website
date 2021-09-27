@@ -16,7 +16,7 @@ sass:
 highlighter: rouge
 
 header_pages:
-  - read-me.md
+  - README.md
   - join.md
   - discord.md
 
