@@ -3,7 +3,7 @@
 </head>
 
 <body>
-<script src="/path/to/discordInvite.js"></script>
+<script src="discordInvite.js"></script>
 <script>
   discordInvite.init({
   inviteCode: '8jZvYtcgmZ',
