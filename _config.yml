@@ -19,6 +19,9 @@ header_pages:
   - index.md
   - join.md
   - discord.md
+  - covid19.md
+  - store.md
+  - UPEI.md
 
 # set the size of the text to 'large' or 'small', default is small
 font-size: large
