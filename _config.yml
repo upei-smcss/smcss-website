@@ -18,6 +18,7 @@ highlighter: rouge
 header_pages:
   - index.md
   - join.md
+  - studentpolicies.md
   - discord.md
   - covid19.md
   - store.md
