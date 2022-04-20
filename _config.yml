@@ -16,6 +16,7 @@ sass:
 highlighter: rouge
 
 header_pages:
+  - home.md
   - join.md
   - studentpolicies.md
   - coc.md
