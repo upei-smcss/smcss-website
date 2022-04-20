@@ -17,7 +17,7 @@ UPEI's SMCSS is the society where CS Majors, Math Majors and any kind of tech an
   
 We host events, raise your voice, and ensure we spread our love for tech and stupid things.
  
-Join us, and our Discord. 
+<a href="https://upeismcss.ca/join">Join us</a>, and our <a href="https://upeismcss.ca/discord">Discord.</a> 
 </p>
 
 
