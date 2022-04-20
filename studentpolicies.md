@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /student_policies
+permalink: /studentpolicies
 permalink_name: /student_policies
 title: Your rights as a student
 
