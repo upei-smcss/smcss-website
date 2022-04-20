@@ -74,7 +74,7 @@ Additionally, community organizers are available to help community members engag
 
 ## 8. Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify Executives, Student Union or the Department with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. UPEI Student Union Policy #24: Inclusion Policy https://upeisu.ca/wp-content/uploads/2018/10/Policy-24-Inclusion-Policy.docx
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify Executives, Student Union or the Department with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. <a href="https://upeisu.ca/wp-content/uploads/2018/10/Policy-24-Inclusion-Policy.docx">UPEI Student Union Policy #24: Inclusion Policy</a> 
 
 SMCSS and the Department Operate within UPEI's Academic Regulations and the UPEI Student Union Policy #24
 
