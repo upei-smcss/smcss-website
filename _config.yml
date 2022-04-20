@@ -16,12 +16,10 @@ sass:
 highlighter: rouge
 
 header_pages:
-  - index.md
   - join.md
   - studentpolicies.md
+  - coc.md
   - discord.md
-  - covid19.md
-  - store.md
   - upei.md
 
 # set the size of the text to 'large' or 'small', default is small
