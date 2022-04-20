@@ -1,3 +1,12 @@
+---
+layout: page
+permalink: /coc
+permalink_name: /code_of_conduct
+title: Citizen Code of Conduct
+
+---
+
+
 # Citizen Code of Conduct
 
 ## 1. Purpose
