@@ -26,7 +26,7 @@ Also check out our sister community: <a href="https://discord.gg/tYeud7VDx3">The
  
 <a href="https://upeismcss.ca/join">Join us</a>, and our <a href="https://upeismcss.ca/discord">Discord.</a> 
 
-<a href="https://emoji.gg/emoji/5691-flagmap-ca"><img src="https://emoji.gg/assets/emoji/5691-flagmap-ca.png" width="64px" height="64px" alt="flagmap_ca"></a><a href="https://emoji.gg/emoji/3191-prince-edward-island-flag"><img src="https://emoji.gg/assets/emoji/3191-prince-edward-island-flag.png" width="64px" height="64px" alt="Prince_Edward_Island_Flag"></a> <a href="https://emoji.gg/emoji/3119-intersex-progress-pride-flag"><img src="https://emoji.gg/assets/emoji/3119-intersex-progress-pride-flag.png" width="64px" height="64px" alt="intersex_progress_pride_flag"></a><a href="https://emoji.gg/emoji/8973_blm"><img src="https://emoji.gg/assets/emoji/8973_blm.png" width="64px" height="64px" alt="blm"></a>
+<img src="https://emoji.gg/assets/emoji/5691-flagmap-ca.png" width="64px" height="64px" alt="flagmap_ca"><img src="https://emoji.gg/assets/emoji/3191-prince-edward-island-flag.png" width="64px" height="64px" alt="Prince_Edward_Island_Flag"><img src="https://emoji.gg/assets/emoji/3119-intersex-progress-pride-flag.png" width="64px" height="64px" alt="intersex_progress_pride_flag"><img src="https://emoji.gg/assets/emoji/8973_blm.png" width="64px" height="64px" alt="blm">
   
   
 UPEI is located on the traditional and unceded territory of the Lnu Epekwitk (Island Mi'kmaq), a district of Mi'kma'ki, the Mi'kmaq Nation.
