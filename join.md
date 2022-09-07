@@ -11,10 +11,9 @@ title: Become a member
 <p align=center> 
   
   <a class="discord-widget" href="INVITE URL" title="Join us on Discord">
-			<img src="https://discordapp.com/api/guilds/888511925112172544/embed.png?style=banner3">
-		</a>
+			<img src="https://discordapp.com/api/guilds/888511925112172544/embed.png?style=banner3"></a>
   
-  <div class="fb-group" data-href="https://www.facebook.com/groups/255898304752976" data-width="280" data-show-metadata="true"><blockquote cite="https://www.facebook.com/groups/255898304752976" class="fb-xfbml-parse-ignore">UPEI School of Mathematical and Computational Sciences Society (SMCSS)</blockquote></div>
+  <div class="fb-group" data-href="https://www.facebook.com/groups/255898304752976" data-width="280" data-show-metadata="true"><blockquote cite="https://www.facebook.com/groups/255898304752976" class="fb-xfbml-parse-ignore"></div>
   
   <h2>For our new members! </h2>
 
