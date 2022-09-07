@@ -7,7 +7,7 @@ title: Become a member
 ---
 <p align=center> 
 
-  We have partnered with 
+  We have partnered with </p>
   
   ![images](https://user-images.githubusercontent.com/91146114/188928763-697aa442-8c8b-4887-a1e8-9c20d965e7ee.png)
   
@@ -15,19 +15,19 @@ title: Become a member
 
 
   
-  We are the first society in Canada to do so! 
+<p align=center> 
   
   To join us under this new system: 
 
   1. Download QPay (or go to https://https://webapp.getqpay.com/register) and select UPEI as your school and create your account
   
-  2. Scan the code below or go to https://upeismcss.getqpay.com
+  2. Scan the code below or go to https://upeismcss.getqpay.com </p>
   
 ![Untitled-1](https://user-images.githubusercontent.com/91146114/188939298-f1d09d34-7a95-4c3e-aa90-9512e0b19bf8.png)
 
+<p align=center> 
   You can get a membership card to use on Google Pay! We will also send invitations and notifications of events through SMS!
   
-  Don't forget to join our Facebook Group  and our Discord!
   
 </p>
 
