@@ -5,4 +5,29 @@ permalink_name: /join
 title: Become a member
 
 ---
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdkegiOcQOfDCKco1ndQVUtJd7f4yRMqNeE_1ZfWEy8bqAbiQ/viewform?embedded=true" width="640" height="2048" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<p align=center> 
+
+  We have partnered with 
+  
+  ![images](https://user-images.githubusercontent.com/91146114/188928763-697aa442-8c8b-4887-a1e8-9c20d965e7ee.png)
+  
+  <a href="https://apps.apple.com/app/id775515154">![image](https://user-images.githubusercontent.com/91146114/188938865-0fb8b5ec-6640-438e-9fc2-8a680fd0288e.png)</a> <a href="https://play.google.com/store/apps/details?id=com.imagineteam.quicklypayit">![image](https://user-images.githubusercontent.com/91146114/188938986-4500703d-2990-4112-90ed-9ee69dddf9f1.png)</a>
+
+
+  
+  We are the first society in Canada to do so! 
+  
+  To join us under this new system: 
+
+  1. Download QPay (or go to https://https://webapp.getqpay.com/register) and select UPEI as your school and create your account
+  
+  2. Scan the code below or go to https://upeismcss.getqpay.com
+  
+![Untitled-1](https://user-images.githubusercontent.com/91146114/188939298-f1d09d34-7a95-4c3e-aa90-9512e0b19bf8.png)
+
+  You can get a membership card to use on Google Pay! We will also send invitations and notifications of events through SMS!
+  
+  Don't forget to join our Facebook Group  and our Discord!
+  
+</p>
+
