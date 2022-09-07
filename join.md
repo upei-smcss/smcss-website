@@ -12,8 +12,7 @@ title: Become a member
 We have partnered with 
 </p>
 
-  
-<align="center" img src="https://user-images.githubusercontent.com/91146114/188928763-697aa442-8c8b-4887-a1e8-9c20d965e7ee.png"/>
+img src="https://user-images.githubusercontent.com/91146114/188928763-697aa442-8c8b-4887-a1e8-9c20d965e7ee.png"/>
   
   
 
