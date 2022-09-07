@@ -6,9 +6,9 @@ title: Become a member
 
 ---
 <p align=center> 
-  
-<a class="discord-widget" href="INVITE URL" title="Join us on Discord"><img src="https://discordapp.com/api/guilds/888511925112172544/embed.png?style=banner3"></a>
+
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0&appId=132840270104932&autoLogAppEvents=1" nonce="HdyHjDEN"></script>
+<a class="discord-widget" href="INVITE URL" title="Join us on Discord"><img src="https://discordapp.com/api/guilds/888511925112172544/embed.png?style=banner3"></a>
 <data-href="https://www.facebook.com/groups/255898304752976" data-width="280" data-show-metadata="false"><blockquote cite="https://www.facebook.com/groups/255898304752976" class="fb-xfbml-parse-ignore">
   
   <h2>For our new members! </h2>
