@@ -4,17 +4,12 @@ permalink: /join
 permalink_name: /join
 title: Become a member
 
----
-
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0&appId=132840270104932&autoLogAppEvents=1" nonce="HdyHjDEN"></script>
-<a class="discord-widget" href="INVITE URL" title="Join us on Discord"><img src="https://discordapp.com/api/guilds/888511925112172544/embed.png?style=banner3"></a><div class="fb-group" data-href="https://www.facebook.com/groups/255898304752976" data-width="280" data-show-metadata="false"><blockquote cite="https://www.facebook.com/groups/255898304752976" class="fb-xfbml-parse-ignore"></div>
-  
+---  
 <p align=center> 
   
 <h2>For our new members!</h2>
 
 We have partnered with 
-  
   
 <img src="https://user-images.githubusercontent.com/91146114/188928763-697aa442-8c8b-4887-a1e8-9c20d965e7ee.png"/>
   
@@ -28,10 +23,13 @@ We have partnered with
   2. Scan the code below or go to https://upeismcss.getqpay.com 
   
   
-  
 <img src="https://user-images.githubusercontent.com/91146114/188939298-f1d09d34-7a95-4c3e-aa90-9512e0b19bf8.png"/>
 
   You can get a membership card to use on Google Pay! We will also send invitations and notifications of events through SMS!
   
 </p>
+
+<a class="discord-widget" href="INVITE URL" title="Join us on Discord"><img src="https://discordapp.com/api/guilds/888511925112172544/embed.png?style=banner3">
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0&appId=132840270104932&autoLogAppEvents=1" nonce="HdyHjDEN"></script>
+</a><div class="fb-group" data-href="https://www.facebook.com/groups/255898304752976" data-width="280" data-show-metadata="false"><blockquote cite="https://www.facebook.com/groups/255898304752976" class="fb-xfbml-parse-ignore"></div>
 
