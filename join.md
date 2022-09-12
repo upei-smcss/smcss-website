@@ -18,7 +18,7 @@ We have partnered with our good friends at QPAY for our memberships!</p>
 
 
 
-<a href="https://apps.apple.com/app/id775515154"><img src="https://user-images.githubusercontent.com/91146114/188938865-0fb8b5ec-6640-438e-9fc2-8a680fd0288e.png"/></a> <a href="https://play.google.com/store/apps/details?id=com.imagineteam.quicklypayit"><img src="https://user-images.githubusercontent.com/91146114/188938986-4500703d-2990-4112-90ed-9ee69dddf9f1.png"/></a>
+<a href="https://apps.apple.com/app/id775515154"><img src="https://user-images.githubusercontent.com/91146114/188938865-0fb8b5ec-6640-438e-9fc2-8a680fd0288e.png"></a> <a href="https://play.google.com/store/apps/details?id=com.imagineteam.quicklypayit"><img src="https://user-images.githubusercontent.com/91146114/188938986-4500703d-2990-4112-90ed-9ee69dddf9f1.png"></a>
 
 
 <p align="center"> To join us under this new system: 
