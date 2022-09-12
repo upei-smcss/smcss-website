@@ -15,7 +15,7 @@ title: Become a member
 We have partnered with our good friends at QPAY for our memberships!
 
 
-<a href="https://getqpay.com/" img src="https://user-images.githubusercontent.com/91146114/188928763-697aa442-8c8b-4887-a1e8-9c20d965e7ee.png"/>
+<a href="https://getqpay.com/" img src="https://user-images.githubusercontent.com/91146114/188928763-697aa442-8c8b-4887-a1e8-9c20d965e7ee.png"></a>
 
   
 <a href="https://apps.apple.com/app/id775515154"><img src="https://user-images.githubusercontent.com/91146114/188938865-0fb8b5ec-6640-438e-9fc2-8a680fd0288e.png"/></a> 
