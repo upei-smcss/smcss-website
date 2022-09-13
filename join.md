@@ -23,7 +23,7 @@ We have partnered with our good friends at QPAY for our memberships!</p>
 
 <p align="center"> To join us under this new system: 
 
-1. Download QPay (or go to https://https://webapp.getqpay.com/register) and select UPEI as your school and create your account
+1. Download QPay (or go to https://webapp.getqpay.com/register) and select UPEI as your school and create your account
   
 2. Scan the code below or go to https://upeismcss.getqpay.com </p>
   
