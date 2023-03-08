@@ -5,7 +5,8 @@ permalink_name: /home
 title: Welcome
 
 ---
-
+<h1>OUR PROFESSORS HAVE A STRIKE DEADLINE FOR MARCH 20TH, 2023. FOR MORE INFORMATION ON THE MATTER, VISIT
+<a href="https://upeifa.ca/">THE UPEI FACULTY ASSOCIATION WEBSITE</a> </h1>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/91146114/134969107-1cab2ff8-2a82-4c32-b013-adab5dba8cd4.gif">
@@ -26,8 +27,7 @@ Also check out our sister community: <a href="https://discord.gg/tYeud7VDx3">The
  
 <a href="https://upeismcss.ca/join">Join us</a>
 
-<img src="https://emoji.gg/assets/emoji/5691-flagmap-ca.png" width="64px" height="64px" alt="flagmap_ca"><img src="https://emoji.gg/assets/emoji/3191-prince-edward-island-flag.png" width="64px" height="64px" alt="Prince_Edward_Island_Flag"><img src="https://emoji.gg/assets/emoji/3119-intersex-progress-pride-flag.png" width="64px" height="64px" alt="intersex_progress_pride_flag"><img src="https://emoji.gg/assets/emoji/8973_blm.png" width="64px" height="64px" alt="blm">
-  
+<img src="https://emoji.gg/assets/emoji/5691-flagmap-ca.png" width="64px" height="64px" alt="flagmap_ca"><img src="https://emoji.gg/assets/emoji/3191-prince-edward-island-flag.png" width="64px" height="64px" alt="Prince_Edward_Island_Flag"><img src="https://emoji.gg/assets/emoji/3119-intersex-progress-pride-flag.png" width="64px" height="64px" alt="intersex_progress_pride_flag"><img src="https://emoji.gg/assets/emoji/8973_blm.png" width="64px" height="64px" alt="blm"><img src="https://user-images.githubusercontent.com/91146114/223780026-9426a1dd-28cd-4e29-a65e-9ec4c8997dbe.svg" width="64px" height="64px" alt="A proud Computing Councils of Canada member"> 
   
 UPEI is located on the traditional and unceded territory of the Lnu Epekwitk (Island Mi'kmaq), a district of Mi'kma'ki, the Mi'kmaq Nation.
 
