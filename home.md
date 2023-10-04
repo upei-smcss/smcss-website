@@ -5,8 +5,8 @@ permalink_name: /home
 title: Welcome
 
 ---
-<p align="center">
-<h1>WELCOME TO UPEI SMCSS </h1>
+
+<h1><center>WELCOME TO UPEI SMCSS</center></h1>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/91146114/134969107-1cab2ff8-2a82-4c32-b013-adab5dba8cd4.gif">
