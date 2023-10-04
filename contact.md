@@ -9,3 +9,4 @@ title: Contact Us
 <h1 align ="center"> Contact us</h1>
 <p align = "center> By Email: 
 <a href="smcss@upeisu.ca">smcss@upeisu.ca</a>
+</p>
