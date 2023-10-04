@@ -5,8 +5,7 @@ permalink_name: /home
 title: Welcome
 
 ---
-<h1>OUR PROFESSORS HAVE A STRIKE DEADLINE FOR MARCH 20TH, 2023. FOR MORE INFORMATION ON THE MATTER, VISIT
-<a href="https://upeifa.ca/">THE UPEI FACULTY ASSOCIATION WEBSITE</a> </h1>
+<h1>WELCOME TO UPEI SMCSS </h1>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/91146114/134969107-1cab2ff8-2a82-4c32-b013-adab5dba8cd4.gif">
