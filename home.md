@@ -5,6 +5,7 @@ permalink_name: /home
 title: Welcome
 
 ---
+<p align="center">
 <h1>WELCOME TO UPEI SMCSS </h1>
 
 <p align="center">
