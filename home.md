@@ -6,7 +6,7 @@ title: Welcome
 
 ---
 
-<h1 class="center">Welcome to UPEI SMCSS!</h1>
+<h1 align="center">Welcome to UPEI SMCSS!</h1>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/91146114/134969107-1cab2ff8-2a82-4c32-b013-adab5dba8cd4.gif">
@@ -22,8 +22,6 @@ Anyone can pick up a programming language or write Hello World. What counts is t
 Our job is to show you and guide you along the way to greatness or problem solving, be it societal, personal or technical. 
   
 We host events, raise your voice, and ensure we spread our love for tech and stupid things.
-  
-Also check out our sister community: <a href="https://discord.gg/tYeud7VDx3">The UPEI Gaming Club</a>
  
 <a href="https://upeismcss.ca/join">Join us</a>
 
