@@ -1,3 +1,4 @@
+https://docs.google.com/forms/d/e/1FAIpQLSdV91eXEbDZfCWFyKeE5wnuFUpik6y-PnDBEQXm5_6wsd5qHg/viewform?usp=sf_link
 ---
 layout: page
 permalink: /join
