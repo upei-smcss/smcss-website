@@ -8,7 +8,7 @@ title: Become a member
 <div align=center> 
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdV91eXEbDZfCWFyKeE5wnuFUpik6y-PnDBEQXm5_6wsd5qHg/viewform?usp=sf_link
-">Sign Up Here</a>
+"> <font size="+6">Sign Up Here</font></a>
 
 <p align="center">
 <iframe src="https://www.facebook.com/plugins/group.php?href=https%3A%2F%2Fwww.facebook.com%2Fgroups%2F255898304752976&width=280&show_metadata=false&appId=1101130734147933&height=275" width="280" height="275" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> </p>
