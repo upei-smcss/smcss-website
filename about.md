@@ -14,7 +14,7 @@ Our objectives are:</p>
 <li>To promote a relationship of friendship and respectful collegiality with staff and faculty of the School of Mathematical and Computational Sciences, as well as those of related Departments or Faculties whom joint events may be scheduled, and</li>
 <li>To provide an experience consistent with those found at Universities and Colleges worldwide where such departmentally-oriented student societies are also common.</li></ul>
 <h2>Your current executive members for the 2023/24 academic year are:</h2>
-<p></p>President: Adam van Omme - avanomme@upei.ca<br>
+<p>President: Adam van Omme - avanomme@upei.ca<br>
 Vice-President: Aurora Ryder - agryder@upei.ca<br>
 Treasurer: Qi Xiang Phang - qphang@upei.ca<br>
 Secretary: Ren Huai Lee - rlee16533@upei.ca<br><br>
