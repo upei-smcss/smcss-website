@@ -17,7 +17,6 @@ Our objectives are:</p>
 <p>President: Adam van Omme - <a href ="mailto:avanomme@upei.ca">avanomme@upei.ca</a><br>
 Vice-President: Aurora Ryder - <a href ="mailto:agryder@upei.ca">agryder@upei.ca</a><br>
 Treasurer: Qi Xiang Phang - <a href ="mailto:qphang@upei.ca">qphang@upei.ca</a><br>
-Secretary: Ren Huai Lee - <a href ="mailto:rlee16533@upei.ca">rlee16533@upei.ca</a><br>
-Faculty Adviser: Chris Vessey - <a href ="mailto:cvessey@upei.ca">cvessey@upei.ca</a><br>
-Faculty Adviser: Samawal Alhakeem - <a href ="mailto:saalhakeem@upei.ca">saalhakeem@upei.ca</a><br><br>
+Secretary: Ren Huai Lee - <a href ="mailto:rlee16533@upei.ca">rlee16533@upei.ca</a><br><br>
+
 To contact the society you can email us <a href ="mailto:smcss@upeisu.ca">smcss@upeisu.ca</a></p>
