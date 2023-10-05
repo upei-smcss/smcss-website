@@ -12,8 +12,8 @@ Convenient storage at the heart of campus!</h1>
 
 <h2>Locker Rules:</h2>
 <ul>
-<li>No food in the lockers for an extended period of time, leaving food too long can result in mold, bad smells, and unwanted bugs
-<li>Lockers must be cleaned out and locks removed by the last day of classes in a semester, failure to do so will result in your $10 deposit not being refunded
+<li>No food in the lockers for an extended period of time, leaving food too long can result in mold, bad smells, and unwanted bugs</li>
+<li>Lockers must be cleaned out and locks removed by the last day of classes in a semester, failure to do so will result in your $10 deposit not being refunded</li>
 </ul>
 
 <p align="centre">How can you get your hands on a locker? Contact any one of the executive members of the society through Facebook or email. The $20 fee for your locker can be paid in cash to any executive member or e-transferred to smcss@upeisu.ca</p>
