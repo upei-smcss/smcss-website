@@ -10,7 +10,7 @@ Convenient storage at the heart of campus!</h1>
 
 <p align="center">Would you like to have a locker in the center of campus? The SMCSS sells lockers on the bottom floor of the Cass Science Hall for just $10 a semester plus a $10 deposit which will be refunded at the end of the semester if you follow the rules below.</p>
 
-<p>Locker Rules:
+<h2>Locker Rules:</h2>
 <ul>
 <li>No food in the lockers for an extended period of time, leaving food too long can result in mold, bad smells, and unwanted bugs
 <li>Lockers must be cleaned out and locks removed by the last day of classes in a semester, failure to do so will result in your $10 deposit not being refunded
