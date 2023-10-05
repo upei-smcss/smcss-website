@@ -16,5 +16,4 @@ Convenient storage at the heart of campus!</h1>
 <LI>Lockers must be cleaned out and locks removed by the last day of classes in a semester, failure to do so will result in your $10 deposit not being refunded
 </UL>
 </p>
-<p align="centre">How can you get your hands on a locker? Contact any one of the executive members of the society through Facebook or email.<br>
-The $20 fee for your locker can be paid in cash to any executive member or e-transferred to smcss@upeisu.ca</p>
+<p align="centre">How can you get your hands on a locker? Contact any one of the executive members of the society through Facebook or email. The $20 fee for your locker can be paid in cash to any executive member or e-transferred to smcss@upeisu.ca</p>
