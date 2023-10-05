@@ -21,6 +21,7 @@ header_pages:
   - studentpolicies.md
   - coc.md
   - contact.md
+  - lockers.md
 
 # set the size of the text to 'large' or 'small', default is small
 font-size: large
