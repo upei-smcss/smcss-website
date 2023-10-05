@@ -23,7 +23,8 @@ title: Become a member
 <img src="https://user-images.githubusercontent.com/91146114/134961296-e5963c6d-d351-4f0d-b521-aafe9f384dda.gif">
   </a>
 
-<iframe src="https://discord.com/widget?id=888511925112172544&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<!---
+<iframe src="https://discord.com/widget?id=888511925112172544&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe> --->
 </p>
 
   
