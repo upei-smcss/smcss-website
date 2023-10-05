@@ -18,6 +18,7 @@ highlighter: rouge
 header_pages:
   - home.md
   - join.md
+  - about.md
   - studentpolicies.md
   - coc.md
   - contact.md
